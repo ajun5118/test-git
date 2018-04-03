@@ -1,2 +1,4 @@
 this is a txt.
 we are learning git!
+it's fanny!
+hellow world!
