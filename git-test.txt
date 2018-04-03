@@ -1,0 +1,2 @@
+this is a txt.
+we are learning git!
